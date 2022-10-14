@@ -7,7 +7,7 @@
 论文地址：https://zikai1.github.io/cirDet.pdf
 基于Qt开发，slicer是切片类，他居然能跑起来？
 
-![Image text]https://github.com/AKYakult/sliceTest/blob/main/origin.png
+[Image text]! https://github.com/AKYakult/sliceTest/blob/main/origin.png
 
 
 ## Instructions
