@@ -34,9 +34,9 @@ cv::String GT = "E:/Code/patterns/GT/";
 
 ## Suggestions
 
-“T_inlier” 的比率阈值越大，越严格\n
-锐角阈值“sharp_angle” 要检测小圆圈,可以稍微调整一下
-其他参数通常是固定的
+“T_inlier” 的比率阈值越大，越严格  
+锐角阈值“sharp_angle” 要检测小圆圈,可以稍微调整一下  
+其他参数通常是固定的  
 
 ## Citation
 @article{zhao2021occlusion, title={An occlusion-resistant circle detector using inscribed triangles}, author={Zhao, Mingyang and Jia, Xiaohong and Yan, Dong-Ming}, journal={Pattern Recognition}, volume={109}, pages={107588}, year={2021}, publisher={Elsevier} }
