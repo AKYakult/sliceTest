@@ -1,10 +1,10 @@
 ## Introduction
-用了git上的这个论文：https://github.com/zikai1/CircleDetection
-没有完全研究有空再说。对比了opencv的圆检测和基于圆内接三角形的快速高精圆检测，好像是这个巨佬的厉害一点hhhh。
-论文地址：https://zikai1.github.io/cirDet.pdf
-基于Qt开发，slicer是切片类，他居然能跑起来？
+用了git上的这个论文：https://github.com/zikai1/CircleDetection  
+没有完全研究有空再说。对比了opencv的圆检测和基于圆内接三角形的快速高精圆检测，好像是这个巨佬的厉害一点hhhh  
+论文地址：https://zikai1.github.io/cirDet.pdf  
+基于Qt开发，slicer是切片类，他居然能跑起来？  
 
-下图以此为原始图像,opencv处理结果,内接三角形处理结果:
+下图以此为原始图像,opencv处理结果,内接三角形处理结果:  
 
 <table>
     <tr>
