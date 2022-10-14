@@ -27,8 +27,8 @@ cv::String GT = "E:/Code/patterns/GT/";
 
 ## Suggestions
 
-“T_inlier”的比率阈值越大，越严格。因此，要获得更多的圆圈，您可以稍微调低它。
-锐角阈值“sharp_angle”。要检测小圆圈，您可以稍微调整一下
+“T_inlier” 的比率阈值越大，越严格
+锐角阈值“sharp_angle” 要检测小圆圈,可以稍微调整一下
 其他参数通常是固定的。
 
 ## Citation
