@@ -34,7 +34,7 @@ cv::String GT = "E:/Code/patterns/GT/";
 
 ## Suggestions
 
-“T_inlier” 的比率阈值越大，越严格
+“T_inlier” 的比率阈值越大，越严格\n
 锐角阈值“sharp_angle” 要检测小圆圈,可以稍微调整一下
 其他参数通常是固定的
 
